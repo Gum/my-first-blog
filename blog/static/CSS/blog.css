@@ -1,0 +1,26 @@
+h1 a {
+    color: #B82A49;
+    font-family: 'Roboto';
+}
+body {
+  		  padding-left: 55px;
+		}
+
+body {
+  		  padding-right: 55px;
+		}
+.page-header {
+	color: #ffffff;
+    background-color: #B82A49;
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
+}
+
+.post h1 a, .post h1 a:visited {
+    color: #B82A49;
+}
+
+.content {
+    margin-left: 40px;
+}
+
